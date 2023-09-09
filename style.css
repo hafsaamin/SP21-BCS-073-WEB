@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Lobster&family=Rubik+Iso&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Lobster&family=Rubik+Iso&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: beige;
+}
+
+.color-orange{
+    color: rgb(83, 116, 131);
+    font-size: 4rem;
+    font-family:Archivo;
+    margin: 23px 599px;
+}
+
+.img-a{
+    width: 250px;
+    border-radius: 100px;
+}
+
+h2{
+    color: #d75151;
+    text-decoration: underline;
+    
+}
+p{
+    color: rgb(47, 173, 173);
+}
+.cv-title{
+    color: rgb(18, 87, 87);
+    text-decoration: underline;
+}
+
+#edu{
+    text-decoration: none;
+}
+.ul-skills{
+    color: rgb(47, 173, 173);
+    list-style: circle;
+    width: 240px;
+    padding-left: 55px;
+}
+.img-bak{
+    background-color: #072545;
+    display: flex;
+   
+    align-items: center;
+    padding-left: 56px;
+}
+.name{
+    color: rgb(135, 169, 198);
+    margin-left:75px;
+    font-family: Abril Fatface;
+    font-size: 70px;
+
+}
+.border{
+    margin-left: 370px;
+    width: 800px;
+    border-style: solid;
+    border-color: #dc8f93;
+    
+}
+.potfolio{
+    margin-top: 100px;
+    
+}
+.other{
+    MARGIN-LEFT: 950px;
+    margin-bottom: 4px;
+    margin-top: -11px;
+}
