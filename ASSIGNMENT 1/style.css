@@ -24,10 +24,12 @@ body{
 h2{
     color: #d75151;
     text-decoration: underline;
+    margin-top: 20px;
     
 }
 p{
     color: rgb(47, 173, 173);
+    margin-top: 10px;
 }
 .cv-title{
     color: rgb(18, 87, 87);
@@ -54,14 +56,15 @@ p{
     color: rgb(135, 169, 198);
     margin-left:75px;
     font-family: Abril Fatface;
-    font-size: 70px;
+    font-size: 60px;
 
 }
 .border{
     margin-left: 370px;
-    width: 800px;
+    width: 700px;
     border-style: solid;
     border-color: #dc8f93;
+    padding-left: 125px;
     
 }
 .potfolio{
@@ -72,4 +75,10 @@ p{
     MARGIN-LEFT: 950px;
     margin-bottom: 4px;
     margin-top: -11px;
+}
+
+#header
+{
+    margin-left: 370px;
+    margin-right: 319px;
 }
