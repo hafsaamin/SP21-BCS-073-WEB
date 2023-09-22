@@ -1,0 +1,273 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-weight: 300;
+}
+
+.mainheading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 66px;
+    
+}
+.subheading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30
+}
+
+.bahubali{
+    padding: 40;
+    /* transition: all 1s ease-in; */
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+    color: rgb(57, 55, 55);
+}
+
+.images{
+    display:flex;
+    padding: 30px;
+}
+.a{
+     padding: 30px 5px
+}
+.b{
+    padding: 50px 5px; 
+}
+.c{
+    padding: 10px 5px; 
+}
+.d{
+    padding: 5px 5px; 
+}
+li{
+    list-style: none;
+}
+img{
+    width: 297px;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.sechead{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.para{
+    padding: 23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(57, 55, 55);
+}
+
+#chuchu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#ia{
+    width: 1406px
+}
+.hero{
+    display: flex;
+    
+}
+
+.herotext{
+    padding-left: 90px;
+    padding-top: 70px;
+}
+
+.heroh1{
+font-size: 50px;
+
+}
+
+#himg{
+    width: 581px;
+    margin-left: 50px;
+}
+
+#himg2{
+    padding-top: 131px;
+    padding-left: 54px;
+    width: 572px;
+}
+
+.p2{
+    padding-left:55px ;
+}
+
+#he1{
+    font-size: 46px;
+}
+#para1{
+    font-size: 20px;
+}
+
+.backimg{
+    background-image: url(https://img.freepik.com/premium-photo/colorful-painting-forest-with-forest-city-background_915071-2665.jpg?w=1060);
+    height: 550px;
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    
+}
+.backh1{
+    color: white;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 157px;
+}
+.backp{
+    color: white;
+    font-size: 25px;
+
+}
+.divp{
+    display: flex;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+#lh{
+    font-size: 44px;
+    font-weight: 600;
+    
+}
+
+.lh1{
+    display: flex;
+    
+    justify-content: center;
+    padding-top: 95px;
+}
+.ldiv{
+    display: flex;
+    padding: 90px;
+    justify-content: center;
+}
+.ldiv2>ul>li
+{
+    margin-top: 20px;
+}
+
+#ll1{
+    width: 423px;
+    padding-left: 20px;
+   
+
+}
+#ll2{
+    width: 490px;
+}
+
+.la1{
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-weight: 400;
+}
+.ldiv2
+{
+    padding: 40px;
+}
+
+#ll3{
+    padding-left: 20px;
+}
+.la2{
+    padding: 20px;
+    text-decoration: none;
+    font-weight: bold;
+    font-weight: 400;
+}
+
+.blue{
+    padding: 60px;
+    background-color: rgb(202, 224, 227);
+    display: flex;
+    /* align-content: center; */
+    /* justify-content: center; */
+}
+
+.blu1{
+    width: 384px;
+    padding-left: 91px;
+}
+.blu2{
+    width: 384px;
+    padding-left: 91px;
+}
+.blu3{
+    width: 384px;
+    padding-left: 91px;
+}
+.blu4{
+    width: 384px;
+    padding-left: 91px;
+}
+
+.blu2 ul li{
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.blu3 ul li{
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.blu4 ul li{
+    
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+
+.blu2 ul li:hover a{
+    text-decoration: underline;
+    text-decoration-color: #62666a;
+}
+.blu3 ul li:hover a{
+    text-decoration: underline;
+    text-decoration-color: #62666a;
+    
+}
+.blu4 ul li:hover a{
+    text-decoration: underline;
+    text-decoration-color: #62666a;
+}
+
+
+
+.li-link2{
+    text-decoration: none;
+    color: #212529;
+   
+}
