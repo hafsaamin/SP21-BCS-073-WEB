@@ -1,0 +1,50 @@
+main{
+    display: flex;
+    
+}
+
+.formdiv {
+    width: 537px;
+    padding: 30px;
+    margin: 50px;
+    margin-left: 247px;
+
+}
+
+.formdesign>input {
+    width: 400px;
+    height: 90px;
+}
+
+.but {
+    
+    width: fit-content;
+    padding: 12px 60px;
+    
+    margin-top: 37px;
+    margin-left: 225px;
+    border-radius: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgba(59, 136, 246, 0.5);
+    background-color: white;
+
+}
+
+.follow{
+    margin: 50px;
+    text-align: center;
+}
+
+.follow img{
+    width: 65px;
+
+}
+
+.follow>ul{
+    list-style: none;
+    
+}
+.follow>ul>li{
+    display: inline-block;
+}

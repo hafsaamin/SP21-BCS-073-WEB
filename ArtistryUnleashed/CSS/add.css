@@ -1,0 +1,105 @@
+.bacimg{
+    background-image: url(https://wallpapercave.com/wp/wp11183942.jpg);
+    height: 450px;
+    background-size: cover; 
+    /* background-repeat: no-repeat;  */
+    /* background-attachment: fixed;  */
+    
+    
+}
+.backh1{
+    color: white;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+}
+.backp{
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 382px;
+
+}
+
+.divp{
+    display: flex;
+    text-align: center;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.but{
+    background-color: rgb(52, 52, 225);
+    color: white;
+    margin-left: 686px;
+    margin-top: 65px;
+    width: 180px;
+    height: 57px;
+    border-radius: 30px;
+    border-style: none;
+    font-weight: 500;
+
+}
+.sec{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 153px;
+}
+.secp{
+    margin-left: 52px;
+    color: rgb(57, 55, 55);
+    font-weight: 100;
+    font-size: 16px;
+}
+.sp{
+    margin-left: 126px;
+    color: rgb(57, 55, 55);
+    font-weight: 100;
+    font-size: 16px;
+}
+.ph{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+}
+
+.partner{
+    text-align: center;
+    color: black;
+    font-weight: 700;
+    padding: 173px;
+}
+.imgs{
+    display: flex;
+   
+}
+
+.ad{
+    width: 118px;
+}
+
+.adh2{
+    font-weight: normal;
+    font-size: 22px;
+}
+.adp{
+    font-weight: normal;
+    font-size: 17px; 
+}
+#ad3{
+    height: 113px;
+}
+
+
+.friends{
+    width: 1098px;
+    padding: 99px;
+    margin-left: 257px;
+
+}

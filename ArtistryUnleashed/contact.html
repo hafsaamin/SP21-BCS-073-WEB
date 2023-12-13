@@ -1,0 +1,67 @@
+<html>
+    <head>
+        <title>Contact</title>
+    
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+        <link rel="stylesheet" href="C:\SP21-BCS-073 WEB\bootstrap-5.3.1-dist\css\bootstrap.css">
+        <link rel="stylesheet" href="CSS/navbar.css">
+        <link rel="stylesheet" href="CSS/style.css">
+        <link rel="stylesheet" href="CSS/contact.css">
+        <link rel="stylesheet" href="CSS/formstyle.css">
+        <script src="JavaScript/script.js"></script>
+        <style>
+        </style>
+    </head>
+   <body>
+    <header>
+        <script src="JavaScript/Navbar.js"></script>
+    </header>
+    <main>
+        <div class="formdiv">
+            <form action="/myaction.php" name="myForm" onsubmit="return validateForm()" method="post">
+                <h1 class="formh1">Contact Us</h1>
+                <p class="formh1">Let us know how we can help you and our team will be in touch as soon as possible!</p>
+                <div class="formdesign" id="name">
+                 <input type="text" name="fname" required placeholder="Your Name" class="place"><b><span class="formerror"></span></b>
+                </div>
+        
+                <div class="formdesign" id="email">
+                <input type="email" name="femail" required placeholder="Email" class="place"> <b><span class="formerror"></span></b>
+                </div>
+        
+                <div class="formdesign" id="msg">
+                <input type="message" name="fmsg" required placeholder="Message`" class="place"> <b><span class="formerror"></span></b>
+                </div>
+        
+               
+                <input class="but" type="submit" value="Send Message">
+        
+            </form>
+            
+        </div>
+
+        <div class="follow">
+            <h1>Follow Us</h1>
+            <br>
+            <p>Follow us on our social channels</p>
+            <br>
+            <ul>
+                <li><a href="#"><img src="Images/facebook.png" alt=""></a></li>
+                <li><a href="#"><img src="Images/twitter.png" alt=""></a></li>
+                <li><a href="#"><img src="Images/insta.png" alt=""></a></li>
+                <li><a href="#"><img src="Images/pin.png" alt=""></a></li>
+                <li><a href="#"><img src="Images/medium.png" alt=""></a></li>
+                <li><a href="#"><img src="Images/link.png" alt=""></a></li>
+            </ul>
+            <br>
+            <p>MuzliX Ltd. | Tel-Aviv, Israel | <a href="#">info@muz.li </a></p>
+        </div>
+
+    </main>
+    <footer>
+        <script src="JavaScript/Footer.js"></script>
+    </footer>
+   </body>
+
+</html>

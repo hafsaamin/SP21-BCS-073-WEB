@@ -1,0 +1,107 @@
+
+.mainheading{
+    font-weight:400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+.subheading{
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+}
+
+.text{
+    font-size: medium;
+    font-weight: normal;
+    flex-direction: column;
+}
+
+.text>p{
+    width: 880px;
+}
+
+.bahubali-a{
+    background-color: blue;
+    color: white;
+    width: 210px;
+    padding: 15px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.aboutimg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.aboutimg>img{
+    width: 80%;
+    padding: 80px;
+}
+
+.media{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+.gif {
+    position: relative;
+    display: inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gif>img{
+    width: 689px;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-weight:bold;
+    background-color:rgb(59,130,246);
+    
+    width: 651px;
+    padding: 146px;
+    opacity: .4;
+}
+.pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pic img{
+    width: 387px;
+    height: 246px;
+}
+.pic a{
+    text-decoration: none;
+    color: black;
+}
+
+.pic span{
+    color: rgb(187, 184, 181)
+}
+
+.apic{
+    text-align: center; 
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 25px;
+
+
+}
+
+
+
+
+
+

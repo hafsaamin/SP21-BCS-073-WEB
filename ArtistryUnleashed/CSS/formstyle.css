@@ -1,0 +1,54 @@
+
+
+.formdiv{
+    border-radius: 30px;
+    background-color: rgb(13, 76, 143);
+    
+   
+}
+
+.formh1{
+    color: white;
+}
+
+.formdesign {
+    font-size: 20px;
+    padding: 20px 50px;
+    color: white;
+    font-weight: bolder;
+}
+
+.formdesign input{
+    
+    padding: 10px;
+    
+    border-style: none;
+    margin-bottom: -34px;
+    border-radius: 4px;
+    font-size: 15px;
+    background-color: rgb(62, 116, 174);
+    color: white;
+}
+
+.place::placeholder{
+    color: white;
+}
+
+.formerror {
+    color: rgb(141, 38, 38);
+}
+
+.but {
+    
+    width: fit-content;
+    padding: 12px 60px;
+    /* margin: 8px;
+    margin-left: 248px; */
+    border-style:none;
+    font-size: 15px;
+    
+    font-weight: bold;
+    color:  rgb(13, 76, 143);
+    background-color:white;
+    
+}
